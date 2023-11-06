@@ -1,15 +1,20 @@
-Module_1/*.exe
-Module_2/*.exe
-OOP/*.exe
+# Module_1/*.exe
+# Module_2/*.exe
+# OOP/*.exe
 
-Module_1/*.obj
-Module_2/*.obj
-OOP/*.obj
+# Module_1/*.obj
+# Module_2/*.obj
+# OOP/*.obj
 
-Module_1/*.pdb
-Module_2/*.pdb
-OOP/*.pdb
+# Module_1/*.pdb
+# Module_2/*.pdb
+# OOP/*.pdb
 
-Module_1/*.ilk
-Module_2/*.ilk
-OOP/*.ilk
+# Module_1/*.ilk
+# Module_2/*.ilk
+# OOP/*.ilk
+
+/**/*.exe
+/**/*.pdb
+/**/*ilk
+/**/*.obj
